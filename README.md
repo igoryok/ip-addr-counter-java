@@ -32,6 +32,7 @@ The BitSet is then used to track the unique IPs by setting the corresponding bit
 
 As an output the program logs the total count of unique IP addresses and the time taken to process the file.
 
+## Result
 I.e. results from processing of [115GB file](https://ecwid-vgv-storage.s3.eu-central-1.amazonaws.com/ip_addresses.zip) is shown bellow:
 ```
 Number of unique ips - 1000000000
