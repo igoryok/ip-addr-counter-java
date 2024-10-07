@@ -5,6 +5,7 @@ The file could be unlimited in size and can occupy tens and hundreds of gigabyte
 
 ## Project setup
  - Make sure you have Java 21 or later installed
+ - Make sure you have Maven installed
  - Clone the repository and navigate to the `org.ecwid.IPProcessor#IP_ADDRESS_FILE` where you can specify path to your file with IP addresses 
 
 [<img src="img.png" width="350"/>](img.png)
